@@ -1,0 +1,18 @@
+library
+https://www.storyblocks.com/audio/search?media-type=sound-effects&categories=applause_bells&sort=most_relevant
+https://www.videvo.net/royalty-free-sound-effects/applause/
+
+
+ai
+https://myedit.online/en/audio-editor/ai-sound-effect-generator
+
+generators
+https://sfxr.me/
+https://pixabay.com/sound-effects/search/generator/
+https://www.leshylabs.com/apps/sfMaker/
+
+
+
+points: bells
+milestones: applause
+
