@@ -1,0 +1,6 @@
+[submodule "win-my-life-android"]
+	path = win-my-life-android
+	url = https://github.com/grayfallstown/win-my-life-android
+[submodule "win-my-life-desktop"]
+	path = win-my-life-desktop
+	url = https://github.com/grayfallstown/win-my-life-desktop
