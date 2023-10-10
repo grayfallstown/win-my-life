@@ -1,4 +1,4 @@
-![win-my-life logo](https://github.com/grayfallstown/win-my-life/blob/master/logo_idea_1.png?raw=true)
+![win-my-life logo](https://github.com/grayfallstown/win-my-life/blob/master/media/logo/logo_idea_1.png?raw=true)
 
 # win-my-life
 
